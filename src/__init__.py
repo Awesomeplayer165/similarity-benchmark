@@ -1,0 +1,3 @@
+"""
+Image Similarity Benchmark package.
+""" 
